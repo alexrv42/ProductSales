@@ -1,0 +1,18 @@
+Product 
+code:  1 
+description:  1 
+sales price: 1.5
+tax: 0.24
+
+Product 
+code:  2 
+description:  2 
+sales price: 3.0
+tax: 0.48
+
+Product 
+code:  3 
+description:  3 
+sales price: 4.5
+tax: 0.72
+
